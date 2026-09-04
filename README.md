@@ -7,6 +7,7 @@ Bem-vindo ao meu portfólio de **Engenharia de Software**! Aqui você encontra u
 - [Sobre](#sobre)
 - [Projetos Privados](#projetos-privados)
 - [Projetos Públicos](#projetos-públicos)
+- [Produtos & Clientes em Produção](#-produtos--clientes-em-produção)
 - [Stack de Tecnologias](#stack-de-tecnologias)
 - [Como Acessar Repositórios Privados](#como-acessar-repositórios-privados)
 - [Contribuições & Colaboradores](#contribuições--colaboradores)
@@ -105,6 +106,44 @@ Sou um **Software Engineer** apaixonado por desenvolver soluções robustas e es
 - **Skills:** `Documentation` `HTML/CSS` `User Guides` `Technical Writing` `Markdown`
 - **📍 Link:** [github.com/LucasPedroso96/White-Rabbit-X-Manual-and-Pre-Sets](https://github.com/LucasPedroso96/White-Rabbit-X-Manual-and-Pre-Sets)
 - **Tamanho:** 26 MB | **Wiki disponível:** ✅
+
+---
+
+## 🎯 Produtos & Clientes em Produção
+
+### White Rabbit X - Expert Advisor
+
+**Plataforma:** MetaTrader 5 Marketplace  
+**Status:** ✅ Ativo | ~50+ clientes ativos em produção  
+**Linguagem:** MQL5  
+
+#### 📊 Links & Referências
+
+- **🔗 Produto:** [MQL5 Marketplace - White Rabbit X](https://www.mql5.com/pt/market/product/187173?source=Site+Profile#)
+- **⭐ Perfil & Feedback:** [MQL5 - Lucas Siqueira Pedroso](https://www.mql5.com/pt/users/lucassiqueirape)
+- **📈 Avaliações verificadas** de traders reais na plataforma
+
+#### 💡 Destaques
+
+✅ Clientes ativos com operações reais  
+✅ Avaliações e feedback de produção  
+✅ Suporte contínuo e atualizações  
+✅ Código otimizado e testado em mercado  
+✅ Versão 2.0+ em desenvolvimento baseada em demanda  
+
+#### 🚀 Soft Launch - Early Adopters (2026)
+
+**Programa Ativo:**
+- ~12 clientes privados em fase de calibração
+- Diversidade: Traders de proprietary firms, consultores independentes, gestores de carteira
+- Feedback de produção validando novas features
+- Roadmap priorizado por demanda real do mercado
+
+*Clientes sob NDA - detalhes confidenciais não podem ser divulgados*
+
+#### 🛠️ Skills Aplicadas
+
+`Algorithmic Trading` `Risk Management` `Real-time Processing` `Performance Optimization` `User Support` `Product Iteration` `Market Validation`
 
 ---
 
@@ -266,9 +305,10 @@ Se você é um **desenvolvedor Python, trader ou entusiasta** interessado em:
 
 ### 👔 Para Recrutadores & Empresas:
 1. Explore a lista completa de projetos acima
-2. Solicite acesso aos repositórios privados que interessam ([abra uma Issue](#como-acessar-repositórios-privados))
-3. Avalie código, arquitetura, padrões e práticas
-4. Entre em contato para discussão técnica
+2. Veja links dos produtos em produção com clientes reais
+3. Solicite acesso aos repositórios privados que interessam ([abra uma Issue](#como-acessar-repositórios-privados))
+4. Avalie código, arquitetura, padrões e práticas
+5. Entre em contato para discussão técnica
 
 ### 👨‍💻 Para Colaboradores & Desenvolvedores:
 1. Explore os repositórios públicos
@@ -301,6 +341,7 @@ Se você é um **desenvolvedor Python, trader ou entusiasta** interessado em:
 
 - **GitHub:** [@LucasPedroso96](https://github.com/LucasPedroso96)
 - **LinkedIn:** [Lucas Pedroso](https://www.linkedin.com/in/lucas-pedroso-96)
+- **MQL5 Profile:** [Lucas Siqueira Pedroso](https://www.mql5.com/pt/users/lucassiqueirape)
 - **Issues:** [Abra uma Issue aqui](https://github.com/LucasPedroso96/Portfolio-Software-Engineer/issues)
 
 ---
@@ -325,6 +366,7 @@ Cada repositório possui sua própria licença:
 - [ ] Documentação em Inglês
 - [ ] Publicação de artigos técnicos
 - [ ] Community Discord/Slack
+- [ ] White Rabbit X versão premium
 
 ---
 
