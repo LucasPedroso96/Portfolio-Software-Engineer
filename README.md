@@ -97,15 +97,7 @@ Sou um **Software Engineer** apaixonado por desenvolver soluções robustas e es
 
 ## 🌍 Projetos Públicos
 
-### 1. **Organização AlgoMT5 - Parceria com a Gangue**
-- **Status:** ✅ Ativo
-- **Linguagem:** MQL5
-- **Descrição:** Projeto colaborativo de algoritmos para MetaTrader5 com foco em estratégias de trading em grupo.
-- **Skills:** `MQL5` `Collaborative Development` `Version Control` `GitHub` `Algorithmic Trading`
-- **📍 Link:** [github.com/LucasPedroso96/Organiza-o-AlgoMT5-Parceria-com-a-Gangue](https://github.com/LucasPedroso96/Organiza-o-AlgoMT5-Parceria-com-a-Gangue)
-- **Tamanho:** 1.1 MB | **Forks:** 1
-
-### 2. **White Rabbit X - Manual and Pre-Sets**
+### 1. **White Rabbit X - Manual and Pre-Sets**
 - **Status:** ✅ Ativo (atualizado há 5 dias)
 - **Linguagem:** HTML/Documentation
 - **Descrição:** Documentação completa e presets do White Rabbit X, com tutoriais e guias de configuração.
@@ -248,9 +240,9 @@ Se você é um **desenvolvedor Python, trader ou entusiasta** interessado em:
 
 | Métrica | Valor |
 |---------|-------|
-| **Repositórios Totais** | 10 |
+| **Repositórios Totais** | 9 |
 | **Repositórios Privados** | 8 |
-| **Repositórios Públicos** | 2 |
+| **Repositórios Públicos** | 1 |
 | **Linguagens Principais** | Python, MQL5 |
 | **Status Atual** | ✅ 100% Ativos |
 | **Última Atualização** | Setembro 4, 2026 |
