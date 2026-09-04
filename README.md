@@ -22,6 +22,7 @@ Sou um **Software Engineer** apaixonado por desenvolver soluções robustas e es
 ✅ **Python Avançado** - Concorrência, Performance, Arquitetura limpa  
 ✅ **MetaTrader 5 (MQL5)** - Expert Advisors e Sistemas de Copytrading  
 ✅ **DevOps & Cloud** - Automação com VPS, Deploy em produção  
+✅ **Telegram Bot & Notificações** - Integração de bots para alertas em tempo real  
 
 ---
 
@@ -32,55 +33,55 @@ Sou um **Software Engineer** apaixonado por desenvolver soluções robustas e es
 ### 1. **Levain** 
 - **Status:** ✅ Ativo (com versão 2.0 em desenvolvimento)
 - **Linguagem:** Python
-- **Descrição:** Sistema completo de trading algorítmico com gestão de risco avançada, histórico de operações e análise de performance.
-- **Skills:** `Python` `MetaTrader5` `Data Analysis` `Risk Management` `Pandas` `NumPy`
+- **Descrição:** Sistema completo de trading algorítmico com gestão de risco avançada, histórico de operações e análise de performance. *Inclui notificações Telegram em tempo real.*
+- **Skills:** `Python` `MetaTrader5` `Data Analysis` `Risk Management` `Telegram Bot` `Pandas` `NumPy`
 - **Repositório:** `LucasPedroso96/Levain` (Privado)
 - **Tamanho:** 543 KB | **License:** MIT
 
 ### 2. **Levain 2.0**
 - **Status:** 🚀 Em desenvolvimento (37 issues abertos)
 - **Linguagem:** Python
-- **Descrição:** Versão melhorada do Levain com código limpo, novas features de validação de trades e otimizações de performance.
-- **Skills:** `Python` `Clean Code` `Unit Testing` `Performance Optimization` `Architecture`
+- **Descrição:** Versão melhorada do Levain com código limpo, novas features de validação de trades e otimizações de performance. *Telegram Bot integrado para alertas.*
+- **Skills:** `Python` `Clean Code` `Unit Testing` `Performance Optimization` `Telegram API` `Architecture`
 - **Repositório:** `LucasPedroso96/Levain-2.0-` (Privado)
 - **Tamanho:** 1 MB | **License:** MIT
 
 ### 3. **Copytrader MT5 - Multiple Terminal**
 - **Status:** ✅ Ativo
 - **Linguagem:** Python (template)
-- **Descrição:** Sistema de copytrading que sincroniza múltiplos terminais MT5 com replicação automática de operações entre contas.
-- **Skills:** `Python` `MetaTrader5 API` `Multi-threading` `Websockets` `Real-time Data`
+- **Descrição:** Sistema de copytrading que sincroniza múltiplos terminais MT5 com replicação automática de operações entre contas. *Notificações Telegram de operações.*
+- **Skills:** `Python` `MetaTrader5 API` `Multi-threading` `Websockets` `Telegram Notifications` `Real-time Data`
 - **Repositório:** `LucasPedroso96/Copytrader-Mt5-Multiple-Terminal` (Privado)
 - **Tamanho:** 57 MB
 
 ### 4. **Copytrader MT5 - Dual Terminal**
 - **Status:** ✅ Ativo
 - **Linguagem:** Python
-- **Descrição:** Versão simplificada do copytrader para sincronização entre dois terminais MT5 com baixa latência.
-- **Skills:** `Python` `Real-time Sync` `Network Programming` `MetaTrader5` `Concurrency`
+- **Descrição:** Versão simplificada do copytrader para sincronização entre dois terminais MT5 com baixa latência. *Com suporte a Telegram Bot.*
+- **Skills:** `Python` `Real-time Sync` `Network Programming` `MetaTrader5` `Telegram Bot` `Concurrency`
 - **Repositório:** `LucasPedroso96/Copytrader-Mt5-Dual-Terminal` (Privado)
 - **Tamanho:** 560 KB | **Criado:** Janeiro 2026
 
 ### 5. **Claude Trader em VPS**
 - **Status:** ✅ Ativo
 - **Linguagem:** Python
-- **Descrição:** Bot de trading integrado com Claude AI para análise de mercado em tempo real, rodando 24/7 em VPS.
-- **Skills:** `Python` `AI/LLM Integration` `VPS Management` `MetaTrader5` `Async/Await` `API Integration`
+- **Descrição:** Bot de trading integrado com Claude AI para análise de mercado em tempo real, rodando 24/7 em VPS. *Alertas via Telegram Bot.*
+- **Skills:** `Python` `AI/LLM Integration` `VPS Management` `MetaTrader5` `Telegram Webhooks` `Async/Await` `API Integration`
 - **Repositório:** `LucasPedroso96/Claude-Trader-em-VPS` (Privado)
 - **Tamanho:** 2.5 MB | **Criado:** Abril 2026
 
 ### 6. **Zeus MT5 - Claude EA**
 - **Status:** 🆕 Recente (Setembro 2026)
 - **Linguagem:** Python
-- **Descrição:** Expert Advisor alimentado por Claude AI para estratégias de trading automático com análise inteligente.
-- **Skills:** `Python` `AI Integration` `MetaTrader5` `Machine Learning` `LLM APIs`
+- **Descrição:** Expert Advisor alimentado por Claude AI para estratégias de trading automático com análise inteligente. *Integração Telegram Bot para notificações.*
+- **Skills:** `Python` `AI Integration` `MetaTrader5` `Machine Learning` `Telegram API` `LLM APIs`
 - **Repositório:** `LucasPedroso96/ZeusMt5-ClaudeEA-` (Privado)
 - **Tamanho:** 50 KB
 
 ### 7. **Metatrader5 EAS**
 - **Status:** ✅ Ativo (atualizado há 4 dias)
 - **Linguagem:** MQL5
-- **Descrição:** Coleção de Expert Advisors profissionais para MetaTrader5 com diferentes estratégias e indicadores customizados.
+- **Descrição:** Coleção de Expert Advisors profissionais para MetaTrader5 com diferentes estratégias e indicadores customizados. *Com suporte a notificações Telegram.*
 - **Skills:** `MQL5` `Algorithmic Trading` `Technical Analysis` `Performance Optimization` `C++`
 - **Repositório:** `LucasPedroso96/Metatrader5EAS` (Privado)
 - **Tamanho:** 20 MB | **License:** Boost 1.0 | **Criado:** Outubro 2023
@@ -129,11 +130,13 @@ Sou um **Software Engineer** apaixonado por desenvolver soluções robustas e es
 ✅ Requests                     - HTTP Client
 ✅ APScheduler                  - Task Scheduling
 ✅ SQLAlchemy                   - ORM Database
+✅ python-telegram-bot          - Telegram Bot Integration
 ```
 
 ### 🚀 Ferramentas & Plataformas
 
 - **MetaTrader 5** - Plataforma principal de trading
+- **Telegram Bot API** - Integração de bots e notificações
 - **VPS (Linux/Windows)** - Execução 24/7 de bots
 - **GitHub** - Versionamento e colaboração
 - **Docker** - Containerização
@@ -149,6 +152,12 @@ Trading & Finance:
   ✅ Backtesting & Performance Analysis
   ✅ Real-time Order Management
   ✅ Market Data Processing
+
+Integração & Notificações:
+  ✅ Telegram Bot Integration
+  ✅ Real-time Notifications
+  ✅ Webhook Management
+  ✅ Message Queue Systems
 
 Software Engineering:
   ✅ Clean Code Architecture
@@ -214,6 +223,7 @@ Se você é um **desenvolvedor Python, trader ou entusiasta** interessado em:
 - 🤖 Melhorar sistemas de trading algorítmico
 - ⚡ Otimizar performance de bots
 - 📊 Adicionar novas estratégias de trading
+- 📱 Integração de Telegram Bot e notificações
 - 🔍 Code reviews e sugestões
 - 📚 Melhorar documentação
 - 🧪 Escrever testes e CI/CD
@@ -233,6 +243,7 @@ Se você é um **desenvolvedor Python, trader ou entusiasta** interessado em:
 - [ ] Melhorias de performance
 - [ ] Testes automatizados
 - [ ] Documentação técnica
+- [ ] Expansão de Telegram Bot features
 
 ---
 
@@ -244,6 +255,7 @@ Se você é um **desenvolvedor Python, trader ou entusiasta** interessado em:
 | **Repositórios Privados** | 8 |
 | **Repositórios Públicos** | 1 |
 | **Linguagens Principais** | Python, MQL5 |
+| **Integrações Principais** | MetaTrader5, Telegram Bot, Claude AI |
 | **Status Atual** | ✅ 100% Ativos |
 | **Última Atualização** | Setembro 4, 2026 |
 | **Tamanho Total** | ~650+ MB |
@@ -270,7 +282,7 @@ Se você é um **desenvolvedor Python, trader ou entusiasta** interessado em:
 2. Veja práticas em Python, APIs e MetaTrader5
 3. Acompanhe evolução dos projetos (commits e histórico)
 4. Leia a documentação técnica
-5. Entenda conceitos de trading algorítmico
+5. Entenda conceitos de trading algorítmico e integração de bots
 
 ---
 
@@ -279,6 +291,7 @@ Se você é um **desenvolvedor Python, trader ou entusiasta** interessado em:
 - ✅ **Trading Algorítmico** - 3+ anos
 - ✅ **Python Avançado** - 4+ anos
 - ✅ **APIs & Integração** - 3+ anos
+- ✅ **Telegram Bot Development** - 2+ anos
 - ✅ **MetaTrader5 (MQL5)** - 2+ anos
 - ✅ **DevOps & VPS** - 2+ anos
 
@@ -308,6 +321,7 @@ Cada repositório possui sua própria licença:
 - [ ] Integração com mais brokers (não só MT5)
 - [ ] Dashboard web em tempo real
 - [ ] Mobile app para monitoramento
+- [ ] Expansão de Telegram Bot features (comandos avançados, gráficos)
 - [ ] Documentação em Inglês
 - [ ] Publicação de artigos técnicos
 - [ ] Community Discord/Slack
